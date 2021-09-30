@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/gabrielpaiv/gabrielpaiv/c6075a5d7c8c601a336dbee727028df45f4f3130/.github/images/Projects/Upfi.svg" width="100%" />
 
-## 📚 Informações sobre o projeto
+## 🏆 Informações sobre o desafio
 
 * Esse projeto foi desenvolvido na parte de ChakraUI e React Query no capitulo IV da Trilha de React. A ideia era ter um sistema de upload de imagens onde o usuário teria uma listagem de imagens e poderia fazer o upload de novas imagens.
 
